@@ -1,0 +1,31 @@
+food_name,serving_size,calories,protein,carbohydrates,fat,estimated_cost,source,diet_tags,allergens
+Soya chunks,100 g dry,345,52.0,33.0,0.5,25,Approximate values based on common Indian nutrition tables / IFCT-style references,vegetarian|vegan|eggetarian|non-vegetarian,
+Paneer,100 g,265,18.3,1.2,20.8,40,Approximate values based on common Indian dairy nutrition references,vegetarian|eggetarian|non-vegetarian,milk
+Milk (toned),100 ml,58,3.1,4.5,3.0,6,Approximate values for toned milk commonly sold in India,vegetarian|eggetarian|non-vegetarian,milk
+Eggs (whole),1 large egg (~50 g),72,6.3,0.4,4.8,8,Approximate values for one large hen egg,eggetarian|non-vegetarian,eggs
+Cooked rice (white),100 g cooked,130,2.7,28.0,0.3,5,Approximate values for boiled white rice,vegetarian|vegan|eggetarian|non-vegetarian,
+Roti (whole wheat),1 medium (~40 g),120,3.1,18.0,3.7,4,Approximate values for one medium atta roti,vegetarian|vegan|eggetarian|non-vegetarian,gluten
+Dal (cooked lentils),100 g cooked,116,9.0,20.0,0.4,8,Approximate values for cooked Indian dal/lentils,vegetarian|vegan|eggetarian|non-vegetarian,
+Chickpeas (boiled),100 g,164,8.9,27.0,2.6,10,Approximate values for boiled chickpeas (chana),vegetarian|vegan|eggetarian|non-vegetarian,
+Rajma (boiled kidney beans),100 g,127,8.7,22.8,0.5,12,Approximate values for boiled rajma,vegetarian|vegan|eggetarian|non-vegetarian,
+Peanuts (roasted),30 g,170,7.3,4.6,14.1,8,Approximate values for roasted peanuts,vegetarian|vegan|eggetarian|non-vegetarian,peanuts
+Oats,40 g dry,156,5.4,27.0,3.2,10,Approximate values for rolled oats,vegetarian|vegan|eggetarian|non-vegetarian,gluten
+Banana,1 medium (~118 g),105,1.3,27.0,0.3,5,Approximate values for one medium banana,vegetarian|vegan|eggetarian|non-vegetarian,
+Curd (plain dahi),100 g,98,3.5,4.7,4.3,12,Approximate values for plain full-fat curd,vegetarian|eggetarian|non-vegetarian,milk
+Chicken (cooked boneless),100 g,165,31.0,0.0,3.6,45,Approximate values for cooked boneless chicken,non-vegetarian,
+Fish (rohul/common cooked),100 g,128,20.0,0.0,5.0,50,Approximate values for cooked freshwater fish,non-vegetarian,
+Lentils (masoor dry),100 g dry,352,24.0,63.0,1.0,15,Approximate values for dry masoor dal,vegetarian|vegan|eggetarian|non-vegetarian,
+Mixed vegetables (cooked),100 g,45,2.0,8.0,0.5,10,Approximate values for mixed Indian sabzi vegetables,vegetarian|vegan|eggetarian|non-vegetarian,
+Tofu,100 g,76,8.0,1.9,4.8,30,Approximate values for firm tofu,vegetarian|vegan|eggetarian|non-vegetarian,soy
+Spinach (cooked),100 g,23,2.9,3.6,0.3,8,Approximate values for cooked spinach (palak),vegetarian|vegan|eggetarian|non-vegetarian,
+Potato (boiled),100 g,87,1.9,20.0,0.1,4,Approximate values for boiled potato,vegetarian|vegan|eggetarian|non-vegetarian,
+Moong sprouts,100 g,30,3.0,6.0,0.2,10,Approximate values for raw moong sprouts,vegetarian|vegan|eggetarian|non-vegetarian,
+Besan (chickpea flour),30 g,116,6.7,17.0,1.9,5,Approximate values for besan,vegetarian|vegan|eggetarian|non-vegetarian,
+Idli (steamed),2 pieces (~100 g),120,4.0,25.0,0.5,15,Approximate values for two medium idlis,vegetarian|vegan|eggetarian|non-vegetarian,
+Poha,100 g prepared,150,3.0,30.0,2.5,12,Approximate values for prepared poha,vegetarian|vegan|eggetarian|non-vegetarian,
+Greek-style thick curd,100 g,97,9.0,3.6,5.0,20,Approximate protein-rich curd estimate for Indian thick dahi/hung curd style,vegetarian|eggetarian|non-vegetarian,milk
+Brown rice (cooked),100 g,112,2.3,24.0,0.8,7,Approximate values for cooked brown rice,vegetarian|vegan|eggetarian|non-vegetarian,
+Almonds,20 g,116,4.3,4.0,10.0,15,Approximate values for almonds,vegetarian|vegan|eggetarian|non-vegetarian,
+Apple,1 medium (~180 g),95,0.5,25.0,0.3,15,Approximate values for one medium apple,vegetarian|vegan|eggetarian|non-vegetarian,
+Cucumber,100 g,16,0.7,3.6,0.1,5,Approximate values for cucumber,vegetarian|vegan|eggetarian|non-vegetarian,
+Tomato,100 g,18,0.9,3.9,0.2,4,Approximate values for tomato,vegetarian|vegan|eggetarian|non-vegetarian,

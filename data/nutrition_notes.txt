@@ -1,0 +1,31 @@
+TOPIC: Daily protein guidance
+CONTENT: For generally healthy adults, many nutrition education sources discuss roughly 0.8 g protein per kg body weight as a common baseline. People aiming for muscle gain often target higher intakes from food, commonly discussed around 1.2–2.0 g/kg depending on training and total calories. These are approximate educational ranges, not medical prescriptions.
+SOURCE: General nutrition education summaries (RDA-style guidance)
+
+TOPIC: Soya chunks for muscle gain
+CONTENT: Soya chunks (textured soy protein) are a high-protein, low-fat vegetarian food. Per 100 g dry soya chunks, protein is commonly listed around 50 g. When cooked they absorb water and volume increases, so cooked protein density per 100 g is lower. They are affordable and useful for muscle-gain style vegetarian meal plans when calories and overall diet are adequate.
+SOURCE: Indian food composition style tables / educational nutrition notes
+
+TOPIC: Paneer nutrition
+CONTENT: Paneer is a common Indian dairy protein food. Per 100 g, approximate values often cited are about 265 kcal, 18 g protein, and higher fat content. It is suitable for vegetarian and eggetarian diets but not for milk-allergic or vegan users. Portion control matters for calorie-focused goals.
+SOURCE: Common Indian dairy nutrition references (approximate)
+
+TOPIC: Affordable high-protein vegetarian foods
+CONTENT: Budget-friendly high-protein vegetarian options in India commonly include soya chunks, dal/lentils, chickpeas, rajma, curd, paneer (moderate budget), oats, and besan. Combining cereals with legumes improves overall amino acid balance across the day.
+SOURCE: Educational Indian diet planning notes
+
+TOPIC: Weight loss meal pattern
+CONTENT: Educational weight-loss meal patterns usually emphasize a calorie deficit, higher protein to support satiety, plenty of vegetables, and controlled oil/fried snacks. Extreme restriction, detox teas, or unsafe fasting advice should be avoided. Individual medical conditions require professional care.
+SOURCE: General healthy-eating education
+
+TOPIC: Muscle gain meal pattern
+CONTENT: Educational muscle-gain patterns usually combine resistance training with a modest calorie surplus and protein-rich meals spread across the day. Indian examples include soya chunks, eggs (if diet allows), paneer, dal-rice, chicken, fish, oats, and curd. Food quality and total protein matter more than any single superfood.
+SOURCE: General sports nutrition education (non-clinical)
+
+TOPIC: Allergy safety
+CONTENT: Always exclude foods matching a user's stated allergies (peanuts, milk, soy, gluten, eggs, or other). Cross-contact can occur in kitchens; educational meal plans cannot guarantee allergen-free preparation.
+SOURCE: Food allergy safety education
+
+TOPIC: Calorie awareness
+CONTENT: Calories and macros vary by cooking method, oil added, and exact portion size. Values in this knowledge base are approximate educational estimates for typical servings and should not be treated as lab-certified measurements.
+SOURCE: NutriRAG knowledge-base disclaimer
