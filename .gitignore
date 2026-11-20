@@ -162,7 +162,9 @@ venv.bak/
 # Local tooling / binaries
 tools/
 imp
-notebooks/
+# Keep assignment notebook; ignore other notebook scratch files if added later
+notebooks/.ipynb_checkpoints/
+notebooks/_build_q2_notebook.py
 
 # Spyder project settings
 .spyderproject
